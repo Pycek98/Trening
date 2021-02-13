@@ -1,0 +1,63 @@
+body{
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-right: 10%;
+  background-color: lightblue;
+  
+}
+
+.widoczny {
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  color:black;
+}
+
+
+.notFive { 
+  width: 40px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  border:3px solid darkcyan;
+  float: left;
+  padding: 2px;
+}
+
+.five {
+  width: 40px;
+  height: 100%px;
+  text-align: center;
+  background-color: cadetblue;
+  border-radius: 20px;
+  border: 3px solid black;
+  float: left;
+  padding: 2px;
+}
+
+button {
+  font-size: large;
+  width: 180px;
+  height: 50px;
+  text-align: center;
+  background-color: cadetblue;
+  border-radius: 20px;
+  border: 3px solid black;
+  padding: 2px;
+}
+
+button:hover {
+  font-size: large;
+  width: 180px;
+  height: 50px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  border:3px solid darkcyan;
+  padding: 2px;
+}
+button:active {
+  border: none;
+}
