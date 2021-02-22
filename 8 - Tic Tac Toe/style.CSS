@@ -69,3 +69,10 @@ span {
     height: 200px;
 }
 
+.gridCell:hover {
+    background-color: rgb(29,29,29);
+    border: solid 20px rgb(55, 55, 55);
+    cursor: pointer;
+    padding-top: 5%;
+}
+
